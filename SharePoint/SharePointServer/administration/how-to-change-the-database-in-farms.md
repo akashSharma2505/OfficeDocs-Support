@@ -18,7 +18,7 @@ appliesto:
 
 ## Summary  
 
-In a SharePoint farm, you may have to migrate databases from one server that is running SQL Server to another. If you don't use a SQL Server client alias during the SharePoint installation, or you if you have to rename the database server for various reasons (for example, after a security breach), follow the steps in this article to change the database server.   
+In a SharePoint farm, you may have to migrate databases from one server that is running SQL Server to another. If you don't use a SQL Server client alias during the SharePoint installation, or if you have to rename the database server for various reasons (for example, after a security breach), follow the steps in this article to change the database server.   
 
 Through good planning and high availability, you can perform these steps in a production environment without having to stop all services.   
 
